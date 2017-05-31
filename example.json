@@ -1,0 +1,270 @@
+{
+ "domain_name": "github.io",
+ "homepage": "https://courses-ionio.github.io/sw/",
+ "pages": [
+  [
+   "https://courses-ionio.github.io/",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/help",
+   "help by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/help/",
+   "help by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/help/delete/",
+   "help by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/help/guide/",
+   "help by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/help/image/",
+   "help by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/help/register/",
+   "help by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/help/submit/",
+   "help by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/projects/",
+   "projects by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#backups",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#comments",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#commit",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#copyright",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#date",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#disclaimer",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#divide",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#donot",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#enforce",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#integration",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#maintain",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#misc",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#never_discover_how_sausages_are_made",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#panic",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#pubonce",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#read",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#sausage",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#sausage_metaphor",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#thanks",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#tool",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#usemsg",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/#workflow",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/",
+   "sw by courses-ionio"
+  ],
+  [
+   "https://courses-ionio.github.io/sw/1-Repository/1-directory-content-tracking.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/1-Repository/2-introducing-the-blob.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/1-Repository/3-blobs-are-stored-in-trees.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/1-Repository/4-how-trees-are-made.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/1-Repository/5-the-beauty-of-commits.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/1-Repository/6-a-commit-by-any-other-name.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/1-Repository/7-branching-and-the-power-of-rebase.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/1-Repository/8-interactive-rebasing.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/2-The-Index/1-meet-the-middle-man.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/2-The-Index/2-taking-the-index-further.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/3-Reset/1-to-reset-or-not-to-reset.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/3-Reset/2-doing-a-mixed-reset.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/3-Reset/3-doing-a-soft-reset.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/3-Reset/4-doing-a-hard-reset.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/4-Stashing-and-the-reflog.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/5-Conclusion.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/6-Further-Reading.html",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/bonus/",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/faq/",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/guide/",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/pacman/",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/sitedi/",
+   ""
+  ],
+  [
+   "https://courses-ionio.github.io/sw/tweetSentimentStreamGlobe/",
+   ""
+  ],
+  [
+   "https://jwiegley.github.io/git-from-the-bottom-up/",
+   "Git from the Bottom Up"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/#about",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/#contact",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/#my-projects",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/#planguages",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/#portfolio",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/#software",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/#tic",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/#top",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://kalalex.github.io/mem-web/",
+   "Kalavitis | Website"
+  ],
+  [
+   "https://sethrobertson.github.io/GitBestPractices/",
+   "asdasd"
+  ]
+ ]
+}
